@@ -4,4 +4,4 @@ Author: Mike Henry
 # Temperature Settings
 
 * Bed: 110
-* Nozzle: 260
+* Nozzle: 240
